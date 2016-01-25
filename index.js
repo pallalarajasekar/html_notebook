@@ -16,3 +16,8 @@ var io = xpress.io;
 app.get('/', function(req, res){
     res.render("index")
 })
+
+app.get('/beginner/myfirstpage', function(req, res){
+    res.render("beginner/myfirstpage")
+})
+
