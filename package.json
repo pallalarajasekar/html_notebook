@@ -1,0 +1,23 @@
+{
+  "name": "html_notebook",
+  "version": "1.0.0",
+  "description": "HTML5 Notebook",
+  "main": "index.js",
+  "dependencies": {
+    "xpressio": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallalarajasekar/html_notebook.git"
+  },
+  "author": "Rajasekar Pallala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallalarajasekar/html_notebook/issues"
+  },
+  "homepage": "https://github.com/pallalarajasekar/html_notebook#readme"
+}
