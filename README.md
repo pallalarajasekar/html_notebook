@@ -10,6 +10,15 @@ HTML Notebook
 [images Html][7]
 [table html][8]
 [Form Html][9]
+[DivSpan][10]
+[text][11]
+[quation][12]
+[Meta][13]
+[ColandRowSpan][14]
+[Description][15]
+[TextAddress][16]
+[ariticleandsection][17]
+[Navegation][18]
 
 
 [1]: https://jsfiddle.net/pallalarajasekar/b4qh4Lhd/
@@ -21,3 +30,12 @@ HTML Notebook
 [7]:https://jsfiddle.net/pallalarajasekar/9k417g62/1/
 [8]:https://jsfiddle.net/pallalarajasekar/o2nojhs9/
 [9]:https://jsfiddle.net/pallalarajasekar/hq0gsz55/1/
+[10]:https://jsfiddle.net/pallalarajasekar/65xd0212/
+[11]:https://jsfiddle.net/pallalarajasekar/cd9caf67/
+[12]:https://jsfiddle.net/pallalarajasekar/c54a87g9/
+[13]:https://jsfiddle.net/pallalarajasekar/djx1pw13/
+[14]:https://jsfiddle.net/pallalarajasekar/t0jkg0bo/
+[15]:https://jsfiddle.net/pallalarajasekar/Lzrh8gw6/1/
+[16]:https://jsfiddle.net/pallalarajasekar/gbjvewmq/1/
+[17]:https://jsfiddle.net/pallalarajasekar/az17poq6/
+[18]:https://jsfiddle.net/pallalarajasekar/xv4d7d6q/

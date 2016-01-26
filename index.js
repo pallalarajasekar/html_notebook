@@ -40,3 +40,11 @@ app.post('/addform',function (req, res) {
 
 
 })
+
+app.get('/intermediate/divandspan', function(req, res){
+    res.render("intermediate/divandspan")
+})
+
+app.get('/intermediate/address', function(req, res){
+    res.render("intermediate/address")
+})
