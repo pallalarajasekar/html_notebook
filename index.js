@@ -21,3 +21,22 @@ app.get('/beginner/myfirstpage', function(req, res){
     res.render("beginner/myfirstpage")
 })
 
+app.get('/beginner', function(req, res){
+    res.render("beginner/beginner")
+})
+
+
+app.get('/beginner/form', function(req, res){
+    res.render("beginner/form")
+})
+
+
+app.post('/addform',function (req, res) {
+
+
+    console.log("ADD form details!", req.body);
+
+    res.send(req.body);
+
+
+})
