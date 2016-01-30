@@ -48,3 +48,11 @@ app.get('/intermediate/divandspan', function(req, res){
 app.get('/intermediate/address', function(req, res){
     res.render("intermediate/address")
 })
+
+app.get('/intermediate/advancedtable', function(req, res){
+    res.render("intermediate/advancedtable")
+})
+
+app.get('/intermediate/section', function(req, res){
+    res.render("intermediate/section")
+})
